@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 mi nombre es martin
 tengo 27
+=======
+mi nombre es martin
+tengo 27
+>>>>>>> 56847a31a4766d6bc79d1d81c9694c0c4f33b30f
 soy programador
