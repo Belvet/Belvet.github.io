@@ -1,6 +1,6 @@
 body 
 {
-    color: rgb(214, 0, 0);
+    background-color: #000000;
     text-align: center;
     font-family: 'Arial';
     font-size: 16px;
@@ -24,7 +24,8 @@ body
 {
     background: url("../Img/gg_logo.png") no-repeat left center;
     background-size: 25%;
-    color: rgb(12, 0, 0);
+    background-color: rgb(88, 88, 88);
+    color: rgb(255, 255, 255);
     margin: 0;
     padding: 3em 0 2em 12em;
     font-weight: bold;
