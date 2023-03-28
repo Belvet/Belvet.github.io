@@ -22,20 +22,29 @@ body
 
 #cabecera
 {
-    background-color: #33a;
+    background: url("../Img/gg_logo.png") no-repeat left center;
+    background-size: 25%;
     color: white;
     margin: 0;
-    padding: 0.5em;
+    padding: 3em 0 2em 12em;
     font-weight: bold;
     box-shadow: 4px 4px 26px 16px rgba(0,0,0,0.39);
-    font-size: 30px
+    font-size: 30px;
+    
+}
+
+#cabecera #logo
+{
+    width: 10%;
+    vertical-align: middle;
 }
 
 #post
 
 {
     padding: 1em;
-
+    background-color: #DDD;
+    color: #0a0000;
 }
 
 #cabecera #tagline
